@@ -38,6 +38,5 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/kritohanzo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhprwxPlwQCwGQmQVgqcthVDkVxsMkmHLqmlXVvTMDZGnbFqMHLMvRXzlRRlKRpmbPBbzk)
-[![VK](https://img.shields.io/badge/VK-4C75A3.svg?style=for-the-badge&logo=vk&logoColor=white&labelColor=black)](https://vk.com/kritohanzo)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=black)](https://discordapp.com/users/352148247495704578)
 
