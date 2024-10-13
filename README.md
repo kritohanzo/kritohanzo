@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, my nickname is @kritohanzo!<br>👋</h2>
-<h3 align="center">I am a graduate of the Yandex Practicum in the direction of "Python Developer", as well as a student of the Tyumen State University in the direction of "Information Security".</h3>
+<h3 align="center">I am a graduate of the Yandex Practicum in the direction of "Python Developer" and the Tyumen State University in the direction of "Information Security".</h3>
 <p align="center">
   <img src="https://avatars.mds.yandex.net/get-lpc/1370085/caa51225-df11-4d0a-be8f-7d1dfad20e4e/orig" width="100">
   <img src="https://i.imgur.com/JVoHVvC.png" width="100">
